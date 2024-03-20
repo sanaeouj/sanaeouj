@@ -2,8 +2,8 @@
 #### A tech enthusiast currently based in Morocco 
 <h2>My Expertise:</h2>
 <ul>
-  <li>JavaScript <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/javascript_1f4f1.png" alt="JavaScript" width="20" height="20"></li>
-  <li>ReactJs <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/react_1f5a5-fe0f.png" alt="ReactJs" width="20" height="20"></li>
+  <li>JavaScript  </li>
+  <li>ReactJs  </li>
   <li>NodeJs </li>
   <li>Mongo </li>
   <li>VueJs </li>
