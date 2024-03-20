@@ -1,16 +1,26 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hamza Ouajhain - Tech Enthusiast</title>
+</head>
+<body>
 
-<!--
-**sanaeouj/sanaeouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello, I'm Sanae Ouajhain</h1>
+<p>A tech enthusiast currently based in Morocco <span>&#x1F1E7;&#x1F1EA;</span></p>
 
-Here are some ideas to get you started:
+<h2>My Expertise:</h2>
+<ul>
+  <li>JavaScript ReactJs NodeJs Mongo VueJs </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Want to learn more about:</h2>
+<ul>
+  <li>Java</li>
+</ul>
+
+<p>Find out more on my portfolio website: <a href="#"><!-- Add your portfolio website link here --></a></p>
+
+</body>
+</html>
