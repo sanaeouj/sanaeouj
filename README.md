@@ -17,20 +17,20 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left">
+<p align="center"> <!-- Modification apportée ici -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
-<p align="left">
+<p align="center"> <!-- Modification apportée ici -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 <h3 align="left">Database Management Systems:</h3>
-<p align="left">
+<p align="center"> <!-- Modification apportée ici -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
